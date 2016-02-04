@@ -428,8 +428,8 @@
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
   
   <!-- Devices -->
-  <project path="device/google/sprout" name="device_google_sprout" remote="saosp" />
-  <project path="device/google/sprout_b" name="device_google_sprout_b" remote="saosp" />
+  <project path="device/google/sprout4" name="device_google_sprout" remote="saosp" />
+  <project path="device/google/sprout8" name="device_google_sprout_b" remote="saosp" />
   <project path="device/google/sprout-common" name="device_google_sprout-common" remote="saosp" />
   <project path="kernel/mediatek/sprout" name="kernel_mediatek" remote="saosp" />
   <project path="vendor/google" name="vendor_google" remote="saosp" />
