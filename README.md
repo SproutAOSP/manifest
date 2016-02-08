@@ -14,3 +14,5 @@ To sync and build
 
 -> make -j$(nproc) otapackage
 ```
+
+Note -> ATM, this will only be buildable on Linux systems, not darwin
