@@ -13,14 +13,14 @@
            revision="6" />
    
   <remote name="bucket"
-		   fetch="https://bitbucket.org"
-		   revision="master" />
+	   fetch="https://bitbucket.org"
+	   revision="master" />
 
   <default revision="refs/tags/android-6.0.1_r24"
            remote="aosp"
            sync-j="32"
-		   sync-c="true"
-	       sync-q="true"
+	   sync-c="true"
+	   sync-q="true"
            sync-f="true" />
 
   <project path="build" name="build" remote="radeon" >
@@ -306,7 +306,6 @@
   <project path="packages/apps/Dialer" name="packages_apps_Dialer" groups="pdk-fs" remote="radeon" />
   <project path="packages/apps/Email" name="platform/packages/apps/Email" groups="pdk-fs" />
   <project path="packages/apps/ExactCalculator" name="platform/packages/apps/ExactCalculator" groups="pdk-fs" />
-  <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" groups="pdk-fs" />
   <project path="packages/apps/FMRadio" name="platform/packages/apps/FMRadio" groups="pdk-fs" />
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" groups="pdk-fs" />
   <project path="packages/apps/Gallery2" name="platform/packages/apps/Gallery2" groups="pdk-fs" />
