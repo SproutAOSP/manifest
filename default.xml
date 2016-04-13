@@ -16,7 +16,7 @@
 		   fetch="https://bitbucket.org"
 		   revision="master" />
 
-  <default revision="refs/tags/android-6.0.1_r17"
+  <default revision="refs/tags/android-6.0.1_r24"
            remote="aosp"
            sync-j="32"
 		   sync-c="true"
