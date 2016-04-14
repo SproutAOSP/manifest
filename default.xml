@@ -405,6 +405,7 @@
   <project path="tools/studio/translation" name="platform/tools/studio/translation" groups="notdefault,tools" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
+  <project path="vendor/radeon" name="vendor_radeon" remote="radeon" />
   
   <!-- Devices -->
   <project path="device/google/sprout" name="device_google_sprout" remote="radeon" />
