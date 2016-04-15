@@ -408,9 +408,9 @@
   <project path="vendor/radeon" name="vendor_radeon" remote="radeon" />
   
   <!-- Devices -->
-  <project path="device/google/sprout" name="device_google_sprout" remote="radeon" />
+  <project path="device/google/sprout" name="device_google_sprout4" remote="radeon" />
   <project path="device/google/sprout-common" name="device_google_sprout-common" remote="radeon" />
-  <project path="kernel/mediatek/sprout" name="kernel_mediatek" remote="radeon" />
+  <project path="kernel/mediatek/sprout" name="kernel_mediatek_sprout" remote="radeon" />
   <project path="vendor/google" name="vendor_google" remote="radeon" />
 
 </manifest>
