@@ -412,5 +412,9 @@
   <project path="device/google/sprout-common" name="device_google_sprout-common" remote="radeon" />
   <project path="kernel/mediatek/sprout" name="kernel_mediatek_sprout" remote="radeon" />
   <project path="vendor/google" name="vendor_google" remote="radeon" />
+  
+  <project path="device/lge/bullhead" name="device_lge_bullhead" remote="radeon" />
+  <project path="kernel/lge/bullhead" name="kernel_lge_bullhead" remote="radeon" />
+  <project path="vendor/lge" name="vendor_lge" remote="radeon" />
 
 </manifest>
