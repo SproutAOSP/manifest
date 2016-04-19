@@ -309,7 +309,7 @@
   <project path="system/qcom" name="CyanogenMod/android_system_qcom" groups="qcom" />
   <project path="system/security" name="CyanogenMod/android_system_security" groups="pdk" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" groups="pdk" />
-  <project path="vendor/radeon" name="vendor_radeon" remote="radeon" revision="6" />
+  <project path="vendor/cm" name="vendor_radeon" remote="radeon" revision="6" />
   <project path="vendor/cmsdk" name="CyanogenMod/cm_platform_sdk" />
 <!--  <project path="vendor/qcom/opensource/dataservices" name="CyanogenMod/android_vendor_qcom_opensource_dataservices" /> -->
 <!--  <project path="vendor/qcom/opensource/dpm" name="CyanogenMod/android_vendor_qcom_opensource_dpm" /> -->
@@ -552,8 +552,8 @@
   <project path="kernel/mediatek/sprout" name="kernel_mediatek_sprout" remote="radeon" revision="6"/>
   <project path="vendor/google" name="vendor_google" remote="radeon" revision="6"/>
   
-  <project path="device/lge/bullhead" name="device_lge_bullhead" remote="radeon" />
-  <project path="kernel/lge/bullhead" name="kernel_lge_bullhead" remote="radeon" />
-  <project path="vendor/lge" name="vendor_lge" remote="radeon" />
+<!--  <project path="device/lge/bullhead" name="device_lge_bullhead" remote="radeon" /> -->
+<!--  <project path="kernel/lge/bullhead" name="kernel_lge_bullhead" remote="radeon" /> -->
+<!--  <project path="vendor/lge" name="vendor_lge" remote="radeon" /> -->
 
 </manifest>
