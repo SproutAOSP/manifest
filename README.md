@@ -1,10 +1,10 @@
-### SproutAOSP
+### RadeonOS
 
-This is the manifest for SproutAOSP
+This is the manifest for RadeonOS
 
 To sync and build
 
--> repo init -u https://github.com/SproutAOSP/manifest.git -b 6
+-> repo init -u https://github.com/RadeonOS/manifest.git -b 6
 
 -> repo sync ( if on slower network then repo sync -f -j1 )
 
